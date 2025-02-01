@@ -45,10 +45,10 @@
 /* LiteralStringBacktick */ .chroma .sb { color:#a6e3a1 }
 /* LiteralStringChar */ .chroma .sc { color:#a6e3a1 }
 /* LiteralStringDelimiter */ .chroma .dl { color:#89b4fa }
-/* LiteralStringDoc */ .chroma .sd { color:#6c7086 }
+/* LiteralStringDoc */ .chroma .sd { color:#A7A9B4 }
 /* LiteralStringDouble */ .chroma .s2 { color:#a6e3a1 }
 /* LiteralStringEscape */ .chroma .se { color:#89b4fa }
-/* LiteralStringHeredoc */ .chroma .sh { color:#6c7086 }
+/* LiteralStringHeredoc */ .chroma .sh { color:#A7A9B4 }
 /* LiteralStringInterpol */ .chroma .si { color:#a6e3a1 }
 /* LiteralStringOther */ .chroma .sx { color:#a6e3a1 }
 /* LiteralStringRegex */ .chroma .sr { color:#94e2d5 }
@@ -64,13 +64,13 @@
 /* Operator */ .chroma .o { color:#89dceb;font-weight:bold }
 /* OperatorWord */ .chroma .ow { color:#89dceb;font-weight:bold }
 /* Punctuation */ .chroma .p {  }
-/* Comment */ .chroma .c { color:#6c7086;font-style:italic }
-/* CommentHashbang */ .chroma .ch { color:#6c7086;font-style:italic }
-/* CommentMultiline */ .chroma .cm { color:#6c7086;font-style:italic }
-/* CommentSingle */ .chroma .c1 { color:#6c7086;font-style:italic }
-/* CommentSpecial */ .chroma .cs { color:#6c7086;font-style:italic }
-/* CommentPreproc */ .chroma .cp { color:#6c7086;font-style:italic }
-/* CommentPreprocFile */ .chroma .cpf { color:#6c7086;font-weight:bold;font-style:italic }
+/* Comment */ .chroma .c { color:#A7A9B4;font-style:italic }
+/* CommentHashbang */ .chroma .ch { color:#A7A9B4;font-style:italic }
+/* CommentMultiline */ .chroma .cm { color:#A7A9B4;font-style:italic }
+/* CommentSingle */ .chroma .c1 { color:#A7A9B4;font-style:italic }
+/* CommentSpecial */ .chroma .cs { color:#A7A9B4;font-style:italic }
+/* CommentPreproc */ .chroma .cp { color:#A7A9B4;font-style:italic }
+/* CommentPreprocFile */ .chroma .cpf { color:#A7A9B4;font-weight:bold;font-style:italic }
 /* Generic */ .chroma .g {  }
 /* GenericDeleted */ .chroma .gd { color:#f38ba8;background-color:#313244 }
 /* GenericEmph */ .chroma .ge { font-style:italic }
